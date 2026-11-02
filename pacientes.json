@@ -1,0 +1,44 @@
+[
+    {
+        "id": "P001",
+        "nombre": "Laura Gómez",
+        "edad": 24,
+        "sexo": "F",
+        "usa_correccion": true
+    },
+    {
+        "id": "P002",
+        "nombre": "Carlos Ramírez",
+        "edad": 35,
+        "sexo": "M",
+        "usa_correccion": true
+    },
+    {
+        "id": "P003",
+        "nombre": "Valentina Ospina",
+        "edad": 12,
+        "sexo": "F",
+        "usa_correccion": false
+    },
+    {
+        "id": "P004",
+        "nombre": "Andrés Londoño",
+        "edad": 58,
+        "sexo": "M",
+        "usa_correccion": true
+    },
+    {
+        "id": "P005",
+        "nombre": "Mariana Restrepo",
+        "edad": 19,
+        "sexo": "F",
+        "usa_correccion": false
+    },
+    {
+        "id": "P006",
+        "nombre": "Santiago Cardona",
+        "edad": 42,
+        "sexo": "M",
+        "usa_correccion": false
+    }
+]
