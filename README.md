@@ -40,6 +40,3 @@ ejecución continua hasta elegir la opción de salida y archivo con al menos 5 p
 ```python
 {"id": "P001", "nombre": "Laura Gómez", "edad": 24, "sexo": "F", "usa_correccion": True}
 ```
-
-## Autores
-Equipo: _(escribir nombres de los integrantes)_
